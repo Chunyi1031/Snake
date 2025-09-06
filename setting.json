@@ -1,0 +1,7 @@
+{
+    "fps":15,
+    "bgcolor":[20,20,255],
+    "snakecolor":[255,255,0],
+    "startxy":[0,0],
+    "full_marks":100
+}
